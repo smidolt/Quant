@@ -20,4 +20,8 @@ This repository is your go-to for Algorithmic Trading (Algo Trading) strategies.
 
 ## Disclaimer
 
-This folder is provided for educational purposes only and should not be considered financial advice. Use it at your own risk and make sure to test it thoroughly before using it in a live trading environment.
+This folder is provided for educational purposes only and should not be considered financial advice. Use it at your own risk and make sure to test it thoroughly before using it in a liv
+![Screenshot 2024-03-04 at 8 22 16 am](https://github.com/smidolt/Quant/assets/103376685/f15dbd19-519b-4aed-b5f6-e58da2a11622)
+e trading environment.
+
+
