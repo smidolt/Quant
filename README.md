@@ -1,27 +1,26 @@
 # Quant  Repository
 
-Greetings! It's private Quant directory. 
+Greetings! It's private Quant Backtest directory. 
 
 **Description:**
 
-This repository is your go-to for Algorithmic Trading (Algo Trading) strategies. Whether you're a seasoned trader or just diving into the world of automated trading, you'll discover a wealth of strategies and boots here.
-
 **What You'll Find:**
 
-1. **Strategies Folder:** Explore a variety of algorithmic trading strategies designed for different market conditions and objectives.
+1. **BUY:** Long reference for Flat strategy
 
-2. **Education Folder:** You won't find anything interesting here. This folder is only for testing and working out some of the things I'll be posting in strategies (or not).
+2. **SELL** Short reference for Flat strategy
 
-3. **Other:** A folder of scripts with small snippets for various tasks.
+3. **Example** Here is an example of a short Flat strategy with 60k rows of loaded data 5 minute timeframe for PEPE crypto token. This example will help you on how to use this backtester correctly.
+   
+![Screenshot 2024-03-04 at 8 22 16 am](https://github.com/smidolt/Quant/assets/103376685/f15dbd19-519b-4aed-b5f6-e58da2a11622)
 
-**How to Navigate:**
+**Info:**
 
-- The Strategies Folder contains specific trading approaches. Each strategy has its own detailed README file containing information and implementation details. In addition, **some strategies are already working and deployed on my server and you can run them without code**. Enjoy.  
+For more information or if you are interested in purchasing this type of backtester, you can contact me at **smidolty@gmail.com** 
 
 ## Disclaimer
+This repository is not intended for commercial use or distribution. **Property of Maxim Sukhodolov**. 
 
-This folder is provided for educational purposes only and should not be considered financial advice. Use it at your own risk and make sure to test it thoroughly before using it in a liv
-![Screenshot 2024-03-04 at 8 22 16 am](https://github.com/smidolt/Quant/assets/103376685/f15dbd19-519b-4aed-b5f6-e58da2a11622)
-e trading environment.
+
 
 
