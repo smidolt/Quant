@@ -12,7 +12,8 @@ Greetings! It's private Quant Backtest directory.
 
 3. **Example** Here is an example of a short Flat strategy with 60k rows of loaded data 5 minute timeframe for PEPE crypto token. This example will help you on how to use this backtester correctly.
    
-![Screenshot 2024-03-04 at 8 22 16 am](https://github.com/smidolt/Quant/assets/103376685/f15dbd19-519b-4aed-b5f6-e58da2a11622)
+![Screenshot 2024-03-04 at 8 44 33 am](https://github.com/smidolt/Quant/assets/103376685/fe0c38ba-d459-406d-9ad9-6a8d46de568d)
+
 
 **Info:**
 
