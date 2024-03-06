@@ -1,6 +1,6 @@
 # Quant  Repository
 
-Greetings! It's private Quant Backtest directory. 
+Greetings! It's private(it was before) Quant Backtest directory. 
 
 **Description:**
 
